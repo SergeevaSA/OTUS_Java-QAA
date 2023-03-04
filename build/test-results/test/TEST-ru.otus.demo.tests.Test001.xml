@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.otus.demo.tests.Test001" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-04T12:05:46" hostname="LAPTOP-MMTKVM23" time="48.346">
+  <properties/>
+  <testcase name="test01" classname="ru.otus.demo.tests.Test001" time="48.346"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 44552
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677931543.593][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+мар. 04, 2023 3:05:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: 107
+]]></system-err>
+</testsuite>
